@@ -1,5 +1,5 @@
-This is a demo project readme
+# 하얀지팡이
 
-bus-helper project
+bus-helper project v.1.0.0.
 
-v.1.0.0.
+Yonsei univ.
