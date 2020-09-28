@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="kor">
   <head>
+    <link rel="stylesheet" href="map.css" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Map</title>
@@ -8,22 +9,44 @@
   <body>
     <div id="top-bar">
       <div class="top-bar__row">
-        <span>이촌동한가람아파트. 이촌역</span>
-        <span>03217</span>
+        <h2>이촌동한가람아파트. 이촌역</h2>
+        <h2>03217</h2>
       </div>
       <div class="top-bar__row">
         <span>이촌동두산위브트레지움. 한강대우아파트</span>
       </div>
     </div>
 
-    <div id="map-view">
-      <!--지도 사진 넣기-->
-    </div>
+    <div id="map"></div>
 
     <div id="bus-view">
-      <div class="bus-view__row"></div>
-      <div class="bus-view__row"></div>
-      <div class="bus-view__row"></div>
+      <div class="bus-view__row">
+        <img class="bus-icon" src="bus.png" width="50" height="50" />
+        <span class="bus-view__row-text-header">운행 버스</span>
+      </div>
+      <div class="bus-view__row-text">
+        <span>416번</span>
+        <span>3:00전</span>
+      </div>
+      <div class="bus-view__row-text">
+        <span>3217번</span>
+        <span>5:17전</span>
+      </div>
     </div>
+
+    <script>
+      function initMap() {
+        var echeon = { lat: 37.520747, lng: 126.971725 };
+        var map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 15,
+          center: echeon,
+        });
+        var marker = new google.maps.Marker({ position: echeon, map: map });
+      }
+    </script>
+    <script
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzo_0sPwml8Uv7QZZcYJm68BTYYRqailI&callback=initMap"
+    ></script>
   </body>
 </html>
