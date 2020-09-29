@@ -1,0 +1,18 @@
+@import "Reset.css";
+@import "variable.css";
+
+/* components */
+@import "components/status-bar.css";
+
+/* screens */
+@import "screens/Main-home.css";
+
+/* font 
+@font-face {
+  font-family: 서울한강 장체B;
+  src: local("서울한강 장체B.ttf");
+  */
+
+body {
+  width: 100%;
+}
