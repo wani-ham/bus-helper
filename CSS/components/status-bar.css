@@ -1,0 +1,18 @@
+.status-bar {
+  display: flex;
+  justify-content: start;
+  background-color: var(--blue);
+  height: 80px;
+}
+.status-bar__Main-icon {
+  position: fixed;
+  margin-left: 250px;
+}
+.status-bar__title {
+  display: block;
+  background-color: Var(--blue);
+  height: 30px;
+  font-size: 13px;
+  color: white;
+  text-align: center;
+}
