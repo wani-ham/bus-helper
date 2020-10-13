@@ -5,6 +5,10 @@
   font-family: "SeoulHangangM";
 }
 
+body {
+  background-color: black;
+}
+
 ul li {
   color: yellow;
 }
