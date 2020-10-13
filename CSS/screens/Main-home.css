@@ -5,7 +5,7 @@
 .Main-home__icon {
   text-align: center;
   font-size: 20px;
-  color: var(--blue);
+  color: white;
   font-weight: 1000;
   width: 100%;
   padding: 8px 0px 20px 0px;
@@ -17,8 +17,8 @@
   margin: auto;
 }
 .status-bar__Main-icon {
-  width: 90px;
-  height: 90px;
+  width: 85px;
+  height: 85px;
   display: flex;
   flex-direction: column;
 }
