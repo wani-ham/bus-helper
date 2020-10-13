@@ -1,0 +1,30 @@
+.status-bar__press {
+  height: 80px;
+  background-color: var(--blue);
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+.status-bar__notify {
+  display: flex;
+  margin: auto;
+  color: white;
+  font-size: 20px;
+}
+.press {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.press__btn {
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  border: 20px solid var(--blue);
+}
+.press__result {
+  margin: auto;
+  padding-top: 20px;
+  font-size: 20px;
+}
