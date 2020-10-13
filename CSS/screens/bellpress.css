@@ -12,6 +12,7 @@
   font-size: 20px;
 }
 .press {
+  color: white;
   display: flex;
   flex-direction: column;
   text-align: center;
