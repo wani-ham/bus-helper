@@ -4,7 +4,6 @@
   box-sizing: border-box;
   font-family: "SeoulHangangM";
 }
-/* 폰트 고치기*/
 
 .container .input {
   border: 10;
@@ -31,7 +30,7 @@
   padding: 10px 20px;
   border-radius: 10px;
   font-size: 20px;
-  border-color: #3e8bf3;
+  border-color: #206ef4;
   padding-left: 65px;
 }
 
@@ -53,3 +52,27 @@
 }
 
 /*https://github.com/codingmarket07/Search-Box-Designs-/blob/master/styles.css*/
+
+body {
+  font-family: "SeoulHangangM";
+}
+nav {
+  background: #206ef4;
+  height: 80px;
+  width: 100%;
+}
+nav img {
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  bottom: 480px;
+  left: 29%;
+}
+
+.bottom-bar {
+  height: 55px;
+  width: 100%;
+  background: #206ef4;
+  position: absolute;
+  bottom: 0px;
+}
