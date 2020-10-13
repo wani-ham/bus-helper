@@ -5,6 +5,11 @@
   font-family: "SeoulHangangM";
 }
 
+
+body {
+  background-color: black;
+}
+
 .container .input {
   border: 10;
   outline: none;
