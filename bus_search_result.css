@@ -4,7 +4,14 @@
   box-sizing: border-box;
   font-family: "SeoulHangangM";
 }
-/* 폰트 고치기*/
+
+ul li {
+  color: yellow;
+}
+
+nav {
+  color: yellow;
+}
 
 .container .input {
   border: 10;
