@@ -81,3 +81,13 @@ nav img {
   position: absolute;
   bottom: 0px;
 }
+
+
+
+.temp-div {
+  width: 100%;
+  height: 155px;
+  border: 3px solid black;
+  border-style: solid none;
+  margin-bottom: 30px;
+}
