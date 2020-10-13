@@ -61,17 +61,16 @@ body {
 body {
   font-family: "SeoulHangangM";
 }
-nav {
+.nav {
   background: #206ef4;
   height: 80px;
   width: 100%;
 }
-nav img {
-  width: 200px;
-  height: 150px;
-  position: absolute;
-  bottom: 480px;
-  left: 29%;
+
+.nav-icon {
+  margin-left: 45%;
+  width: 100px;
+  height: 75px;
 }
 
 .bottom-bar {
