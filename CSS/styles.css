@@ -8,13 +8,18 @@
 @import "screens/Main-home.css";
 @import "screens/bellpress.css";
 
-/* font 
+/* font */
 @font-face {
-  font-family: 서울한강 장체B;
-  src: local("서울한강 장체B.ttf");
-  */
+  font-family: "SeoulHangangM";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/SeoulHangangM.woff")
+    format("woff");
+}
 
 body {
   width: 100%;
   background-color: black;
+}
+
+span {
+  font-family: "SeoulHangangM";
 }
