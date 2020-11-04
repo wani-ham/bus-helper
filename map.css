@@ -12,7 +12,7 @@ body {
   text-align: center;
   width: 100%;
   height: 65px;
-  color: #e0e0e0;
+  color: #f9fe7e;
 }
 
 .top-bar__row:first-child {
@@ -53,5 +53,5 @@ body {
   justify-content: space-between;
   border: 2px solid #3e8bf3;
   border-radius: 10px;
-  color: #e0e0e0;
+  color: #f9fe7e;
 }
