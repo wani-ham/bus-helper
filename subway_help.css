@@ -1,7 +1,7 @@
 @import "reset.css";
 
 body {
-  background-color: white;
+  background-color: #111111;
   font-family: serif;
   font-weight: bold;
 }
@@ -29,7 +29,7 @@ body {
 
 h2 {
   padding-bottom: 25px;
-  color: white;
+  color: #e0e0e0;
 }
 
 #main-body {
@@ -55,4 +55,5 @@ h2 {
   position: relative;
   bottom: 30px;
   left: 37px;
+  color: #f9fe7e
 }
