@@ -8,11 +8,11 @@
 .status-bar__notify {
   display: flex;
   margin: auto;
-  color: white;
+  color: #f9fe7e;
   font-size: 20px;
 }
 .press {
-  color: white;
+  color: #f9fe7e;
   display: flex;
   flex-direction: column;
   text-align: center;
