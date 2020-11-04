@@ -5,7 +5,6 @@
   font-family: "SeoulHangangM";
 }
 
-
 body {
   background-color: black;
 }
@@ -61,17 +60,26 @@ body {
 body {
   font-family: "SeoulHangangM";
 }
-nav {
+.bar {
   background: #206ef4;
+  display: flex;
+  justify-content: space-between;
   height: 80px;
-  width: 100%;
 }
-nav img {
-  width: 200px;
-  height: 150px;
-  position: absolute;
-  bottom: 480px;
-  left: 29%;
+.img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 140px;
+  height: 140px;
+  margin-top: -14%;
+}
+
+.null {
+  padding: 20px;
+  background-color: #206ef4;
+  font-size: 65px;
+  opacity: 0;
 }
 
 .bottom-bar {
