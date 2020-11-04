@@ -5,7 +5,7 @@
     <link href="station_search.css" rel="stylesheet" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>search page</title>
+    <title>station search</title>
     <style>
       @font-face {
         font-family: "SeoulHangangM";
@@ -20,12 +20,27 @@
 
   <body>
     <!--상단바 시작-->
-    <nav>
-      <img src="logo.png" />
-    </nav>
+    <div class="bar">
+
+      <div class="null">
+        <span><i class="fas fa-bars"></i></span>
+      </div>
+
+      <div class="status-bar__icon">
+        <span>
+          <img class="img" src="logo.png" /></span>
+      </div>
+
+      <div class="null">
+        <span><i class="fas fa-bars"></i></span>
+      </div>
+
+    </div>
+
+  
     <!--상단바 끝-->
     <!--서치바 시작-->
-    <div class="container">
+    <div class="container"> 
       <div class="search_wrap">
         <div class="search_box">
           <input type="text" class="input" placeholder="검색" />
