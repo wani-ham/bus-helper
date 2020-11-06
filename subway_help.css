@@ -1,9 +1,9 @@
 @import "reset.css";
 
 body {
-  background-color: white;
-  font-family: serif;
-  font-weight: bold;
+  background-color: #111111;
+  font-family: "SeoulHangangM";
+  /*font-weight: bold;*/
 }
 
 #top-bar {
@@ -25,11 +25,16 @@ body {
   padding-top: 40px;
   position: relative;
   left: -60px;
+  
 }
 
 h2 {
   padding-bottom: 25px;
-  color: white;
+  color: #f9fe7e;
+}
+
+h2:last child {
+  color: #e0e0e0;
 }
 
 #main-body {
@@ -55,4 +60,5 @@ h2 {
   position: relative;
   bottom: 30px;
   left: 37px;
+  color: #f9fe7e;
 }
