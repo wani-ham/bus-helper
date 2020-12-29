@@ -4,7 +4,7 @@
 
 
 
-Project "White Cane" is purposed on enhancing the independence of someone who is blind while using the public bus. Our project uses RFID technologies which interacts with our application on the user's phone. Due to the Covid-19 pandemic, we couldn't made it to actually develop a fully functioning device, but we managed to make our protype of the application design. This Github page contains the concept design of our application. We used HTML, CSS and Javascirpt to prototype our application.  
+Project "White Cane" is purposed on enhancing the independence of blind people while using the public bus. Our project uses RFID technologies which interacts with our application on the user's phone. Due to the Covid-19 pandemic, we couldn't made it to actually develop a fully functioning device, but we managed to make our protype of the application design. This Github page contains the concept design of our application. We used HTML, CSS and Javascirpt to prototype our application.  
 
 
 ## The meaning of our project name, "White Cane"
@@ -12,11 +12,14 @@ Project "White Cane" is purposed on enhancing the independence of someone who is
 White cane is an international symbol of blindness. It is because white cane is widely used by people who are blind for scanning obstacles or signs nearby. White cane is not only an essential tool for daily living but a trustworthy friend for people who are blind. We hoped our project to be a digital white cane for blind people using public buses.
 
 
-## Our efforts for user experience
+## Our efforts for user experience(UX)
 
-Out project had a specific target which is 'people who are blind and also uses public bus'.
-
-
+Since our project is purposed for blind people, we had to designed our application more user friendly. We applied the followings to our design.
+1. Stronger contrast
+2. Bigger text size
+3. Simpler menu
+4. Bigger icon size
+We also asked for feedbacks from 'Incheon Welfare Center for the Blind' to improve our UX. Feedbacks from real users helped us to make our application more user friendly. We changed the color contrast, text size based on the given feedback.
 
 ## Screenshots of the prototype
 
