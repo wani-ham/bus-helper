@@ -19,6 +19,7 @@ Since our project is purposed for blind people, we had to designed our applicati
 2. Bigger text size
 3. Simpler menu
 4. Bigger icon size
+
 We also asked for feedbacks from 'Incheon Welfare Center for the Blind' to improve our UX. Feedbacks from real users helped us to make our application more user friendly. We changed the color contrast, text size based on the given feedback.
 
 ## Screenshots of the prototype
