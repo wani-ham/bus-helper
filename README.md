@@ -4,7 +4,7 @@
 
 
 
-Project "White Cane" is purposed on enhancing the independence of blind people while using the public bus. Our project uses RFID technologies which interacts with our application on the user's phone. Due to the Covid-19 pandemic, we couldn't made it to actually develop a fully functioning device, but we managed to make our protype of the application design. This Github page contains the concept design of our application. We used HTML, CSS and Javascirpt to prototype our application.  
+Project "White Cane" is purposed on enhancing the independence of blind people while using the public bus. Our project uses RFID technologies which interacts with our application on the user's phone. Due to the Covid-19 pandemic, we couldn't made it to actually develop a fully functioning device, but we managed to make our protype of the application design. This Github page contains prototype of the application design. We used HTML, CSS and Javascirpt to prototype our design.  
 
 
 ## The meaning of our project name, "White Cane"
