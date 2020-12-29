@@ -1,7 +1,7 @@
 # Yonsei-Nexon RC Creative Platform (White Cane, 하얀지팡이)
 
-- This project was a part of the "Yonsei-Nexon RC Creative Platform" which took place in November, 2020. Check out the link below for further info about the 2020 Yonsei-Nexon RC Creative Platform.
-https://www.d-book.co.kr/dbooks/edu/7Jew7IS464yAUkMx/
+- This project was a part of the "Yonsei-Nexon RC Creative Platform" which took place in November, 2020. Check out the [link](https://www.d-book.co.kr/dbooks/edu/7Jew7IS464yAUkMx/) for further info about the 2020 Yonsei-Nexon RC Creative Platform.
+
 
 
 Project "White Cane" is purposed on enhancing the independence of someone who is blind while using the public bus. Our project uses RFID technologies which interacts with our application on the user's phone. Due to the Covid-19 pandemic, we couldn't made it to actually develop a fully functioning device, but we managed to make our protype of the application design. This Github page contains the concept design of our application. We used HTML, CSS and Javascirpt to prototype our application.
