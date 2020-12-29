@@ -1,6 +1,6 @@
 # Yonsei-Nexon RC Creative Platform (White Cane, 하얀지팡이)
 
-- This project was a part of the "Yonsei-Nexon RC Creative Platform" which took place in November, 2020. Check out the [link](https://www.d-book.co.kr/dbooks/edu/7Jew7IS464yAUkMx/) for further info about the 2020 Yonsei-Nexon RC Creative Platform.
+- This project was part of the "Yonsei-Nexon RC Creative Platform" which took place in November, 2020. Check out the [link](https://www.d-book.co.kr/dbooks/edu/7Jew7IS464yAUkMx/) for further info about the 2020 Yonsei-Nexon RC Creative Platform.
 
 
 
