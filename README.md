@@ -24,7 +24,9 @@ We also asked for feedbacks from 'Incheon Welfare Center for the Blind' to impro
 
 ## Screenshots of the prototype
 
-(pictures)
+|mainpage|Remote stop bell|
+|--------|----------------|
+|<img width="384" alt="KakaoTalk_20201106_121532525" src="https://user-images.githubusercontent.com/19422758/103331025-55897e00-4aa7-11eb-8944-9b2bb57f5874.png">|<img width="389" alt="KakaoTalk_20201106_121558676" src="https://user-images.githubusercontent.com/19422758/103331105-b0bb7080-4aa7-11eb-99dc-1de1c417cacd.png">|
 
 
 
